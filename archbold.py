@@ -34,7 +34,6 @@ def mainloop():
             if text:
                 logger.info(str(update))
                 answer = handler.route(update)
-                answer = answer.encode('utf-8')
 
                 logger.info('Answer length: {}'.format(len(answer)))
                 if len(answer) > 4096:
