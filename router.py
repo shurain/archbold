@@ -16,4 +16,5 @@ class EventHandler(object):
                 answer = callback(update, match)
                 if answer:
                     return answer
+        else:
             return DEFAULT_RESPONSE
