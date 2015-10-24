@@ -5,10 +5,6 @@ Telegram-based server controller inspired by [KarimJedda/whatsappcli](https://gi
 
 Intended to be a toy PoC. Use at your own risk.
 
-Modification
-------------
-
-
 Usage
 -----
 
