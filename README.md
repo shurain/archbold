@@ -26,3 +26,8 @@ To implement new commands, look into `events.py`. Some relevant resources are as
 - [Welcome to Python Telegram Bot’s documentation! — Python Telegram Bot 2.8.7 documentation](http://python-telegram-bot.readthedocs.org/en/latest/)
 - [Telegram Bot API](https://core.telegram.org/bots/api)
 - [All Methods](https://core.telegram.org/methods)
+
+Example
+-------
+
+![Archbold Usage](https://farm6.staticflickr.com/5680/22350583018_705a07fb07_o.png)
